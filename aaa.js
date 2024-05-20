@@ -9,3 +9,7 @@ const b=()=>{
 const c=()=>{
     alert("c!")
 }
+
+const d=()=>{
+    alert("d!")
+}
